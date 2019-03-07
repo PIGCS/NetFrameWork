@@ -3,3 +3,7 @@
 ################################################################################
 
 *.sqlite
+/.vs/PIGCS/v15/.suo
+/.vs/VSWorkspaceState.json
+/PIGCS/.vs/PIGCS/v15
+/PIGCS/PIGCS/obj
